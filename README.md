@@ -1,16 +1,13 @@
-## Hi there 👋
+# Khouloud Rouis 👋
 
-<!--
-**khouloudRouis/khouloudRouis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Software Developer | Full-Stack | Java & Angular**
 
-Here are some ideas to get you started:
+Experienced in building **scalable web applications** using **Java, Spring Boot, and Angular**. Skilled in **design patterns, system design, and complex problem-solving**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Full-Stack Development:** Angular, Spring Boot, REST APIs  
+- ⚡ **Core Skills:** Java, TypeScript, OOP, DSA, Software Architecture  
+- 🛠️ **Tools & Platforms:** Git, GitHub, Docker, MySQL  
+
+Focused on delivering **clean, maintainable code** and **efficient solutions**.  
+
+📫 Connect: [LinkedIn](https://www.linkedin.com/in/rouis-khouloud/) | [Email](khouloudrouis.dev@gmail.com)
