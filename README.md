@@ -10,4 +10,4 @@ Experienced in building **scalable web applications** using **Java, Spring Boot,
 
 Focused on delivering **clean, maintainable code** and **efficient solutions**.  
 
-📫 Connect: [LinkedIn](https://www.linkedin.com/in/rouis-khouloud/) | [Email](khouloudrouis.dev@gmail.com)
+📫 Connect: [LinkedIn](https://www.linkedin.com/in/rouis-khouloud/) | [Email](mailto:khouloudrouis.dev@gmail.com)
